@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Ronshee Chawla
+
+~~~
+{}{img_left}{photos/ProfilePic.jpg}{alt text}{240px}{240px}
+== About me
+I am a third year Ph.D. student in the Electrical and Computer Engineering Department at UT Austin, where I am fortunate to be advised by Prof. [https://sites.google.com/view/sanjay-shakkottai/home Sanjay Shakkottai]. 
+
+My research interests lie in the fields of machine learning, optimization and networks. I am currently focused on developing and understanding decentralized machine learning algorithms. During my undergraduate degree, I have worked on performance analysis of wireless networks.
+~~~
+
+== News
+- (July 2020) New Preprint [https://arxiv.org/abs/2007.01442 Multi-Agent Low-Dimensional Linear Bandits].
+- (February 2020) Invited talk on the paper "The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits" at *Vrbo (Expedia Group)*, Austin TX.
+- (January 2020) Paper on "The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits" accepted in AISTATS 2020.
+
+== Contact
+- E-mail: [ronsheechawla@utexas.edu ronsheechawla@utexas.edu], [rcronshee@gmail.com rcronshee@gmail.com]
+- You can also find me on [https://www.linkedin.com/in/ronshee/ LinkedIn] and [https://github.com/ronshee GitHub].

@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Publications 
+
+== Preprints
+- [https://arxiv.org/abs/2007.01442 Multi-Agent Low-Dimensional Linear Bandits] \n
+*Ronshee Chawla*, Abishek Sankararaman and Sanjay Shakkottai
+
+== Conference Papers
+- [https://arxiv.org/abs/2001.05452 The Gossiping Insert-Eliminate Algorithm for Multi-Agent Bandits] \[[https://github.com/ronshee/gosine code]\]\n
+*Ronshee Chawla\**, Abishek Sankararaman*, Ayalvadi Ganesh and Sanjay Shakkottai (\* Equal Contribution)\n
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2020 \n
+
+- [https://ieeexplore.ieee.org/abstract/document/7746611 Outage Performance and Location Optimization for Traffic-Aware Two-Way Relaying with Direct Link] \n
+Suneel Yadav, *Ronshee Chawla* and Prabhat K. Upadhyay \n
+International Conference on Signal Processing and Communications (SPCOM) 2016
+
+- Outage Analysis of Cellular Two-Way Relaying with Spectrum Sharing in Nakagami–m Fading \n
+*Ronshee Chawla*, M. Mounika Reddy and Prabhat K. Upadhyay \n
+International Symposium on Wireless Personal Multimedia Communications (WPMC) 2015
+
