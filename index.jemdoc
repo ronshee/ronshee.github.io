@@ -3,14 +3,12 @@
 
 ~~~
 {}{img_left}{photos/PP1.jpg}{alt text}{240px}{240px}
-E-mail: [ronsheechawla@utexas.edu ronsheechawla@utexas.edu], [rcronshee@gmail.com rcronshee@gmail.com]\n
+E-mail: [rcronshee@gmail.com rcronshee@gmail.com], [ronsheechawla@utexas.edu ronsheechawla@utexas.edu]\n
 
 You can also find me on [https://www.linkedin.com/in/ronshee/ LinkedIn] and [https://github.com/ronshee GitHub].
 ~~~
 
 == About me
-I am a Research Scientist at Meta working on machine learning at scale in the Ads Online Experimentation group. 
-
 I received my PhD from The University of Texas at Austin, where I was fortunate to be advised by [https://sites.google.com/view/sanjay-shakkottai/home Sanjay Shakkottai]. During my time in grad school, I was also blessed to have worked with these amazing collaborators: [https://sites.google.com/a/illinois.edu/srikant/ R. Srikant], [https://people.maths.bris.ac.uk/~maajg/ Ayalvadi Ganesh], [https://abishek90.github.io/ Abishek Sankararaman] and [https://sites.google.com/view/danielvial/ Daniel Vial]. 
 
 My research interests lie broadly in the fields of machine learning, optimization and networks. In particular, I am interested in developing efficient and reliable machine learning tools for real-life applications, and characterizing their theoretical and empirical behavior. My PhD thesis focused on design and analysis of communication-efficient decentralized algorithms in various multi-agent bandit settings.
